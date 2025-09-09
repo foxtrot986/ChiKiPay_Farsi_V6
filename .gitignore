@@ -8,3 +8,5 @@ local.properties
 # OS junk
 Thumbs.db
 .DS_Store
+ChiKiPay_Icon_Verify_*.csv
+app/ChiKiPay_Icon_Verify_*.csv
