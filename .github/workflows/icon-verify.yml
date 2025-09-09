@@ -1,0 +1,11 @@
+﻿name: Icon Verify
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: windows-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Verify WebP Icons
+        shell: pwsh
+        run: |
+          pwsh -NoProfile -ExecutionPolicy Bypass -File tools/Verify-ChiKiPayIcons.ps1
