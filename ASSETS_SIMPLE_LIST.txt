@@ -1,0 +1,37 @@
+
+# Replace these placeholders with your real assets (names must match)
+
+# Splash (NEW order: 986 → ChiKiPay)
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable/splash_logo_986.png
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable/splash_logo_chikipay.png
+
+# Launcher icon foreground
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable/ic_launcher_fg.png   (432x432)
+
+# Backgrounds (20)
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-mdpi/bg_main.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-mdpi/bg_cards.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-mdpi/bg_transactions.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-mdpi/bg_settings.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-hdpi/bg_main.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-hdpi/bg_cards.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-hdpi/bg_transactions.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-hdpi/bg_settings.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xhdpi/bg_main.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xhdpi/bg_cards.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xhdpi/bg_transactions.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xhdpi/bg_settings.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxhdpi/bg_main.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxhdpi/bg_cards.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxhdpi/bg_transactions.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxhdpi/bg_settings.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxxhdpi/bg_main.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxxhdpi/bg_cards.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxxhdpi/bg_transactions.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-xxxhdpi/bg_settings.webp
+
+# 4K nodpi (optional in-APK)
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-nodpi/bg_main_4k.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-nodpi/bg_cards_4k.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-nodpi/bg_transactions_4k.webp
+/mnt/data/ChiKiPay_Farsi_V6/android/ChiKiPayApp/app/src/main/res/drawable-nodpi/bg_settings_4k.webp

@@ -1,0 +1,10 @@
+# Android/Gradle common ignores
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+# OS junk
+Thumbs.db
+.DS_Store
