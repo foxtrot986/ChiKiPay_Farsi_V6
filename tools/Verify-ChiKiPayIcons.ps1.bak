@@ -1,4 +1,4 @@
-﻿param([string]$ResPath = "D:\RanD_Project_2025\Project_ChiKiPay_2025\ChiKiPay_Farsi_V6\app\src\main\res")
+﻿param([string]$ResPath = "D:\R&D_Project_2025\Project_ChiKiPay_2025\ChiKiPay_Farsi_V6\app\src\main\res")
 
 $Densities = [ordered]@{ mdpi=24; hdpi=36; xhdpi=48; xxhdpi=72; xxxhdpi=96 }
 
@@ -70,4 +70,3 @@ $need= $report.Count
 "=================================`n" | Write-Host
 
 if($bad -gt 0){ exit 2 } else { exit 0 }
-
